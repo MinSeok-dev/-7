@@ -78,7 +78,7 @@
 #         logger.error(('Something went wrong!!',test))
 
 #     return render(request, 'language/result.html', context)    
-
+# 테스트
 from django.shortcuts import render
 from django.utils import timezone
 import logging
